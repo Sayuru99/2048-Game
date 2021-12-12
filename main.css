@@ -68,3 +68,7 @@ h1 {
 .score-title {
   font-size: 16px;
 }
+
+.result {
+  font-color: #ffd700;
+}

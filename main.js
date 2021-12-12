@@ -220,7 +220,7 @@ document.addEventListener('DOMContentLoaded', () =>  {
       else if (squares[i].innerHTML == 2) squares[i].style.backgroundColor = '#ffb224'
       else if (squares[i].innerHTML  == 4) squares[i].style.backgroundColor = '#1b1b1b' 
       else if (squares[i].innerHTML  == 8) squares[i].style.backgroundColor = '#f2b179' 
-      else if (squares[i].innerHTML  == 16) squares[i].style.backgroundColor = '#ffcea4' 
+      else if (squares[i].innerHTML  == 16) squares[i].style.backgroundColor = '#ba8759' 
       else if (squares[i].innerHTML  == 32) squares[i].style.backgroundColor = '#e8c064' 
       else if (squares[i].innerHTML == 64) squares[i].style.backgroundColor = '#ffab6e' 
       else if (squares[i].innerHTML == 128) squares[i].style.backgroundColor = '#fd9982' 

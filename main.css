@@ -18,6 +18,11 @@ h1 {
   margin-top: 30px;
 }
 
+.lose {
+  color: #dcdcdc;
+  font-family: 'Fuzzy Bubbles', cursive; 
+}
+
 .info {
   display: flex;
   justify-content: space-between;

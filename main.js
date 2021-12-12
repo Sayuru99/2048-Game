@@ -216,7 +216,7 @@ document.addEventListener('DOMContentLoaded', () =>  {
   //add colours
   function addColours() {
     for (let i=0; i < squares.length; i++) {
-      if (squares[i].innerHTML == 0) squares[i].style.backgroundColor = '#afa192'
+      if (squares[i].innerHTML == 0) squares[i].style.backgroundColor = '#EEE4DA'
       else if (squares[i].innerHTML == 2) squares[i].style.backgroundColor = '#ffb224'
       else if (squares[i].innerHTML  == 4) squares[i].style.backgroundColor = '#ede0c8' 
       else if (squares[i].innerHTML  == 8) squares[i].style.backgroundColor = '#f2b179' 

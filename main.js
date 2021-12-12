@@ -218,7 +218,7 @@ document.addEventListener('DOMContentLoaded', () =>  {
     for (let i=0; i < squares.length; i++) {
       if (squares[i].innerHTML == 0) squares[i].style.backgroundColor = '#EEE4DA'
       else if (squares[i].innerHTML == 2) squares[i].style.backgroundColor = '#ffb224'
-      else if (squares[i].innerHTML  == 4) squares[i].style.backgroundColor = '#ede0c8' 
+      else if (squares[i].innerHTML  == 4) squares[i].style.backgroundColor = '#1b1b1b' 
       else if (squares[i].innerHTML  == 8) squares[i].style.backgroundColor = '#f2b179' 
       else if (squares[i].innerHTML  == 16) squares[i].style.backgroundColor = '#ffcea4' 
       else if (squares[i].innerHTML  == 32) squares[i].style.backgroundColor = '#e8c064' 

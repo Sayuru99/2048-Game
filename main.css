@@ -43,6 +43,7 @@ h1 {
 }
 
 .grid div {
+  font-family: 'Corinthia', cursive;
   width: 101px;
   height: 105px;
   margin: 12px;

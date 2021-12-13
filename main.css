@@ -66,6 +66,18 @@ h1 {
   color: #000000;
 }
 
+.reload {
+  text-align: center;
+  font-family: 'Corinthia', cursive;
+  font-family: 'Lobster', cursive;
+  width: 60px;
+  height: 60px;
+  border-radius: 3px;
+  background-color: #DC143C;
+  color: #000000;
+  margin-left:100px;
+}
+
 #score {
   font-size: 30px;
 }

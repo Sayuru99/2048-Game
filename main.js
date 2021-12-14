@@ -224,7 +224,7 @@ document.addEventListener('DOMContentLoaded', () =>  {
       else if (squares[i].innerHTML  == 32) squares[i].style.backgroundColor = '#e8c064' 
       else if (squares[i].innerHTML == 64) squares[i].style.backgroundColor = '#ffab6e' 
       else if (squares[i].innerHTML == 128) squares[i].style.backgroundColor = '#fd9982' 
-      else if (squares[i].innerHTML == 256) squares[i].style.backgroundColor = '#ead79c' 
+      else if (squares[i].innerHTML == 256) squares[i].style.backgroundColor = '#DF6C6C' 
       else if (squares[i].innerHTML == 512) squares[i].style.backgroundColor = '#76daff' 
       else if (squares[i].innerHTML == 1024) squares[i].style.backgroundColor = '#beeaa5' 
       else if (squares[i].innerHTML == 2048) squares[i].style.backgroundColor = '#d7d4f0' 

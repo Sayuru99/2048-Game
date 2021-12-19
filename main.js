@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () =>  {
   const scoreDisplay = document.getElementById('score')
   const resultDisplay = document.getElementById('result')
   let squares = []
-  const width = 4
+  const width = 5
   let score = 0
 
   //create the playing board
@@ -235,5 +235,3 @@ addColours()
 var myTimer = setInterval(addColours, 50)
 
 })
-
-

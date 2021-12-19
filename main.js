@@ -201,7 +201,7 @@ document.addEventListener('DOMContentLoaded', () =>  {
       }
     }
     if (zeros === 0) {
-      resultDisplay.innerHTML = 'hahaha LOSER!'
+      resultDisplay.innerHTML = 'You never loose, You just ran out of Boxes!'
       document.removeEventListener('keyup', control)
       setTimeout(() => clear(), 3000)
     }

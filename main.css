@@ -34,8 +34,8 @@ h1 {
   font-family: 'Lobster', cursive;
   display: flex;
   flex-wrap: wrap;
-  width: 600px;
-  height: 580px;
+  width: 500px;
+  height: 500px;
   background-color: #141414;
   border: 5px solid #100c08;
   border-radius: 8px;
@@ -44,8 +44,8 @@ h1 {
 
 .grid div {
   font-family: 'Corinthia', cursive;
-  width: 109px;
-  height: 105px;
+  width: 112px;
+  height: 112px;
   margin: 0 0 0 10px;
   border-radius: 3px;
   background-color: #EEE4DA;

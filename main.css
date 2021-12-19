@@ -9,12 +9,12 @@ h1 {
   font-size: 80px;
   font-family: 'Corinthia', cursive;
   line-height: 0.7;
-  color: #d4d4d4;
+  color: #00FFFF;
   margin: 0px;
 }
 
 .container {
-  width: 468px;
+  width: 490px;
   margin-top: 30px;
 }
 
@@ -34,26 +34,26 @@ h1 {
   font-family: 'Lobster', cursive;
   display: flex;
   flex-wrap: wrap;
-  width: 500px;
-  height: 550px;
-  background-color: #BBADA0;
-  border: 7px solid #BBADA0;
-  border-radius: 6px;
+  width: 600px;
+  height: 580px;
+  background-color: #141414;
+  border: 5px solid #100c08;
+  border-radius: 8px;
   margin-top: 20px;
 }
 
 .grid div {
   font-family: 'Corinthia', cursive;
-  width: 101px;
+  width: 109px;
   height: 105px;
-  margin: 12px;
+  margin: 0 0 0 10px;
   border-radius: 3px;
   background-color: #EEE4DA;
   color: #EEE4DA;
   font-weight: bold;
   text-align: center;
-  font-size: 50px;
-  line-height: 2;
+  font-size:40px;
+  line-height: 2.5;
 }
 
 .score-container {
@@ -69,11 +69,11 @@ h1 {
 
 .reload {
   text-align: center;
-  font-family: 'Corinthia', cursive;
   font-family: 'Lobster', cursive;
-  width: 60px;
-  height: 60px;
-  border-radius: 3px;
+  font-size:15px;
+  width: 70px;
+  height: 63px;
+  border-radius: 5px;
   background-color: #DC143C;
   color: #000000;
   margin-left:100px;
